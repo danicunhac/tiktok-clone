@@ -1,0 +1,15 @@
+.video {
+    box-sizing: border-box;
+    position: relative;
+    background-color: white;
+    height: 100%;
+    width: 100%;
+    scroll-snap-align: start;
+}
+
+.video_player {
+    background-color: black;
+    object-fit: fill;
+    height: 100%;
+    width: 100%;
+}
