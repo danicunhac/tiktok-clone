@@ -4,4 +4,4 @@
 
 ## It should look like this:
 
-![print](https://i.imgur.com/HdM1LCA.png)
+<img src="https://i.imgur.com/HdM1LCA.png" alt="rprint" width="300" height="500"/>
